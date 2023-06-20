@@ -1,0 +1,3 @@
+function kayitOl(){
+    alert("selam")
+}
